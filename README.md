@@ -6,6 +6,10 @@
 
 - [x] Remove Task Functionality: Add a delete button or icon for each task in the list. When the user clicks the delete button, the corresponding task should be removed from the list in the state using the useState() hook.
 
+## My Tasks
+
+- [x] Able to delete from completed as well.
+
 - [] Add Enter functionality
 - [] Add the local storage functionality
 - [] Make it like Google Keep
