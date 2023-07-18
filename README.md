@@ -9,6 +9,7 @@
 ## My Tasks
 
 - [x] Able to delete from completed as well.
+- [x] Empty input shall not be submitted.
 
 - [] Add Enter functionality
 - [] Add the local storage functionality
